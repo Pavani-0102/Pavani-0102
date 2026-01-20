@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Pavani NALLAPUREDDY**
+# 👋 Hi, I'm **Pavani Nallapureddy**
 
 ## 📌 About Me
 Hey there! I'm **Pavani**, a **final-year Computer Science & Engineering student** at Sri Venkateswara College of Engineering, Tirupati with a passion for **coding and crafting innovative solutions**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
